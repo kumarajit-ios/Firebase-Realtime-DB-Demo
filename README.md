@@ -11,7 +11,7 @@
 ### 2. Internet required to load the data
 
 ## How to run:
-### 1. Download the project source 
+### 1. [Download](https://github.com/kumarajit-ios/Firebase-Realtime-DB-Demo/archive/master.zip) the project source 
 ### 2. Navigate to project folder and double click on iAssignment.xcworkspace file to open the project
 ### 3. Click on Run button
 
